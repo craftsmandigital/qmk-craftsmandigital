@@ -1,6 +1,8 @@
 # craftsmandigital
 All my keyboard collected in one userspace
 
+[setup environment like this description](https://filterpaper.github.io/qmk/userspace.html?utm_source=pocket_mylist)
+
 I have 2 different keyboards to maintain. `Lets'split` and a handmade `Dactyl manuform 3x5_3`
 
 This is a attemt to collect all my keyboards in one userspace
