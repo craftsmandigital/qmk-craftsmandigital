@@ -1,0 +1,1 @@
+SRC += craftsmandigital.c
